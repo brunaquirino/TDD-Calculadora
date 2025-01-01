@@ -1,0 +1,14 @@
+/Users/brunaquirinocorrea/Documents/Cursos DIO/Full Stack XP/Trabalhando com Desenvolvimento Orientado a Testes/NewTalents/NewTalents/bin/Debug/net8.0/NewTalents
+/Users/brunaquirinocorrea/Documents/Cursos DIO/Full Stack XP/Trabalhando com Desenvolvimento Orientado a Testes/NewTalents/NewTalents/bin/Debug/net8.0/NewTalents.deps.json
+/Users/brunaquirinocorrea/Documents/Cursos DIO/Full Stack XP/Trabalhando com Desenvolvimento Orientado a Testes/NewTalents/NewTalents/bin/Debug/net8.0/NewTalents.runtimeconfig.json
+/Users/brunaquirinocorrea/Documents/Cursos DIO/Full Stack XP/Trabalhando com Desenvolvimento Orientado a Testes/NewTalents/NewTalents/bin/Debug/net8.0/NewTalents.dll
+/Users/brunaquirinocorrea/Documents/Cursos DIO/Full Stack XP/Trabalhando com Desenvolvimento Orientado a Testes/NewTalents/NewTalents/bin/Debug/net8.0/NewTalents.pdb
+/Users/brunaquirinocorrea/Documents/Cursos DIO/Full Stack XP/Trabalhando com Desenvolvimento Orientado a Testes/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunaquirinocorrea/Documents/Cursos DIO/Full Stack XP/Trabalhando com Desenvolvimento Orientado a Testes/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.AssemblyInfoInputs.cache
+/Users/brunaquirinocorrea/Documents/Cursos DIO/Full Stack XP/Trabalhando com Desenvolvimento Orientado a Testes/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.AssemblyInfo.cs
+/Users/brunaquirinocorrea/Documents/Cursos DIO/Full Stack XP/Trabalhando com Desenvolvimento Orientado a Testes/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.csproj.CoreCompileInputs.cache
+/Users/brunaquirinocorrea/Documents/Cursos DIO/Full Stack XP/Trabalhando com Desenvolvimento Orientado a Testes/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.dll
+/Users/brunaquirinocorrea/Documents/Cursos DIO/Full Stack XP/Trabalhando com Desenvolvimento Orientado a Testes/NewTalents/NewTalents/obj/Debug/net8.0/refint/NewTalents.dll
+/Users/brunaquirinocorrea/Documents/Cursos DIO/Full Stack XP/Trabalhando com Desenvolvimento Orientado a Testes/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.pdb
+/Users/brunaquirinocorrea/Documents/Cursos DIO/Full Stack XP/Trabalhando com Desenvolvimento Orientado a Testes/NewTalents/NewTalents/obj/Debug/net8.0/NewTalents.genruntimeconfig.cache
+/Users/brunaquirinocorrea/Documents/Cursos DIO/Full Stack XP/Trabalhando com Desenvolvimento Orientado a Testes/NewTalents/NewTalents/obj/Debug/net8.0/ref/NewTalents.dll
